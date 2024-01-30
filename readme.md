@@ -4,3 +4,5 @@
 - Installed WSL and ubuntu
 - set up git on WSL
 - set up ssh key to push to github
+
+- integrated WSL with VSCode; use `code-insiders .` in the approrpriate git directory in WSl to start a session
