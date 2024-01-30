@@ -1,5 +1,6 @@
-#NJIT - IS601 - Homework 1
+# NJIT - IS601 - Homework 1
 
-First homework assignment of IS601.
-Installed WSL and ubuntu
-set up git
+- First homework assignment of IS601.
+- Installed WSL and ubuntu
+- set up git on WSL
+- set up ssh key to push to github
